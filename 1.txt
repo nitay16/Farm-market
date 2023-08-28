@@ -1,0 +1,1511 @@
+Year:0
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+Year:0
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Sheep farm(1) Added Chicken farm(4) to his client list
+Sheep farm(2) Added Chicken farm(4) to his client list
+Sheep farm(3) Added Chicken farm(4) to his client list
+Sheep farm(1) Added Chicken farm(5) to his client list
+Sheep farm(2) Added Chicken farm(5) to his client list
+Sheep farm(3) Added Chicken farm(5) to his client list
+----Begin Market----
+----Buy Animals----
+Sheep farm(1) bought 2 sheeps for 10 dollars
+Sheep farm(2) bought 2 sheeps for 10 dollars
+Sheep farm(3) bought 2 sheeps for 10 dollars
+Chicken farm(4) bought 3 chickens for 9 dollars
+Chicken farm(5) bought 3 chickens for 9 dollars
+Year:1
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Cow farm(6) Added Sheep farm(1) to his client list
+Cow farm(6) Added Sheep farm(2) to his client list
+Cow farm(6) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(6) to his client list
+Chicken farm(5) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(4) to his client list
+Sheep farm(7) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(7) to his client list
+Sheep farm(8) Added Chicken farm(4) to his client list
+Sheep farm(8) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(8) to his client list
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Cow farm(6) bought 6 eggs for 6 dollars from Chicken farm(4)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(5)
+----Buy Animals----
+Sheep farm(1) bought 4 sheeps for 20 dollars
+Sheep farm(2) bought 4 sheeps for 20 dollars
+Sheep farm(3) bought 2 sheeps for 10 dollars
+Chicken farm(4) bought 2 chickens for 6 dollars
+Chicken farm(5) bought 1 chickens for 3 dollars
+Sheep farm(7) bought 2 sheeps for 10 dollars
+Sheep farm(8) bought 2 sheeps for 10 dollars
+Year:2
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+How many years to fast forward?
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 6 wool for 12 dollars from Sheep farm(1)
+Cow farm(6) bought 10 eggs for 10 dollars from Chicken farm(4)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(7)
+----Buy Animals----
+Sheep farm(1) bought 4 sheeps for 20 dollars
+Sheep farm(2) bought 2 sheeps for 10 dollars
+Sheep farm(3) bought 2 sheeps for 10 dollars
+Sheep farm(7) bought 4 sheeps for 20 dollars
+Sheep farm(8) bought 2 sheeps for 10 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Cow farm(6) bought 8 eggs for 8 dollars from Chicken farm(4)
+Cow farm(6) bought 11 eggs for 11 dollars from Chicken farm(5)
+Sheep farm(1) bought 6 milk for 18 dollars from Cow farm(6)
+Chicken farm(4) bought 4 wool for 8 dollars from Sheep farm(7)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(7)
+----Buy Animals----
+Sheep farm(1) bought 3 sheeps for 15 dollars
+Sheep farm(2) bought 2 sheeps for 10 dollars
+Sheep farm(3) bought 2 sheeps for 10 dollars
+Cow farm(6) bought 1 cows for 10 dollars
+Sheep farm(7) bought 5 sheeps for 25 dollars
+Sheep farm(8) bought 2 sheeps for 10 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Cow farm(6) bought 6 eggs for 6 dollars from Chicken farm(5)
+Sheep farm(1) bought 10 milk for 30 dollars from Cow farm(6)
+Chicken farm(5) bought 3 wool for 6 dollars from Sheep farm(7)
+----Buy Animals----
+Sheep farm(2) bought 2 sheeps for 10 dollars
+Sheep farm(3) bought 2 sheeps for 10 dollars
+Cow farm(6) bought 4 cows for 40 dollars
+Sheep farm(7) bought 3 sheeps for 15 dollars
+Sheep farm(8) bought 2 sheeps for 10 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 10 milk for 30 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 2 milk for 6 dollars from Cow farm(6)
+----Buy Animals----
+Cow farm(6) bought 6 cows for 60 dollars
+Sheep farm(7) bought 1 sheeps for 5 dollars
+Sheep farm(8) bought 2 sheeps for 10 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 10 milk for 30 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+----Buy Animals----
+Cow farm(6) bought 8 cows for 80 dollars
+Year:7
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 10, Animals: 3 sheep, Products: Milk[39], Wool[92], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 12, Animals: 4 sheep, Products: Milk[6], Wool[123], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 12, Animals: 4 sheep, Products: Milk[6], Wool[108], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[39], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[39], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 15, Animals: 22 cows, Products: Milk[9], Wool[0], Eggs[45]
+Farm Id: 7, type: Sheep farm, Money: 11, Animals: 9 sheep, Products: Milk[6], Wool[113], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 11, Animals: 6 sheep, Products: Milk[3], Wool[90], Eggs[0]
+Year:7
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Cow farm(9) Added Sheep farm(1) to his client list
+Cow farm(9) Added Sheep farm(2) to his client list
+Cow farm(9) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(9) to his client list
+Chicken farm(5) Added Cow farm(9) to his client list
+Cow farm(9) Added Sheep farm(7) to his client list
+Cow farm(9) Added Sheep farm(8) to his client list
+Cow farm(10) Added Sheep farm(1) to his client list
+Cow farm(10) Added Sheep farm(2) to his client list
+Cow farm(10) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(10) to his client list
+Chicken farm(5) Added Cow farm(10) to his client list
+Cow farm(10) Added Sheep farm(7) to his client list
+Cow farm(10) Added Sheep farm(8) to his client list
+Cow farm(11) Added Sheep farm(1) to his client list
+Cow farm(11) Added Sheep farm(2) to his client list
+Cow farm(11) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(11) to his client list
+Chicken farm(5) Added Cow farm(11) to his client list
+Cow farm(11) Added Sheep farm(7) to his client list
+Cow farm(11) Added Sheep farm(8) to his client list
+Cow farm(12) Added Sheep farm(1) to his client list
+Cow farm(12) Added Sheep farm(2) to his client list
+Cow farm(12) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(12) to his client list
+Chicken farm(5) Added Cow farm(12) to his client list
+Cow farm(12) Added Sheep farm(7) to his client list
+Cow farm(12) Added Sheep farm(8) to his client list
+Cow farm(13) Added Sheep farm(1) to his client list
+Cow farm(13) Added Sheep farm(2) to his client list
+Cow farm(13) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(13) to his client list
+Chicken farm(5) Added Cow farm(13) to his client list
+Cow farm(13) Added Sheep farm(7) to his client list
+Cow farm(13) Added Sheep farm(8) to his client list
+Cow farm(14) Added Sheep farm(1) to his client list
+Cow farm(14) Added Sheep farm(2) to his client list
+Cow farm(14) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(14) to his client list
+Chicken farm(5) Added Cow farm(14) to his client list
+Cow farm(14) Added Sheep farm(7) to his client list
+Cow farm(14) Added Sheep farm(8) to his client list
+Sheep farm(15) Added Chicken farm(4) to his client list
+Sheep farm(15) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(15) to his client list
+Cow farm(9) Added Sheep farm(15) to his client list
+Cow farm(10) Added Sheep farm(15) to his client list
+Cow farm(11) Added Sheep farm(15) to his client list
+Cow farm(12) Added Sheep farm(15) to his client list
+Cow farm(13) Added Sheep farm(15) to his client list
+Cow farm(14) Added Sheep farm(15) to his client list
+Sheep farm(16) Added Chicken farm(4) to his client list
+Sheep farm(16) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(16) to his client list
+Cow farm(9) Added Sheep farm(16) to his client list
+Cow farm(10) Added Sheep farm(16) to his client list
+Cow farm(11) Added Sheep farm(16) to his client list
+Cow farm(12) Added Sheep farm(16) to his client list
+Cow farm(13) Added Sheep farm(16) to his client list
+Cow farm(14) Added Sheep farm(16) to his client list
+Sheep farm(17) Added Chicken farm(4) to his client list
+Sheep farm(17) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(17) to his client list
+Cow farm(9) Added Sheep farm(17) to his client list
+Cow farm(10) Added Sheep farm(17) to his client list
+Cow farm(11) Added Sheep farm(17) to his client list
+Cow farm(12) Added Sheep farm(17) to his client list
+Cow farm(13) Added Sheep farm(17) to his client list
+Cow farm(14) Added Sheep farm(17) to his client list
+Sheep farm(1) Added Chicken farm(18) to his client list
+Sheep farm(2) Added Chicken farm(18) to his client list
+Sheep farm(3) Added Chicken farm(18) to his client list
+Chicken farm(18) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(18) to his client list
+Sheep farm(8) Added Chicken farm(18) to his client list
+Chicken farm(18) Added Cow farm(9) to his client list
+Chicken farm(18) Added Cow farm(10) to his client list
+Chicken farm(18) Added Cow farm(11) to his client list
+Chicken farm(18) Added Cow farm(12) to his client list
+Chicken farm(18) Added Cow farm(13) to his client list
+Chicken farm(18) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(18) to his client list
+Sheep farm(16) Added Chicken farm(18) to his client list
+Sheep farm(17) Added Chicken farm(18) to his client list
+Sheep farm(1) Added Chicken farm(19) to his client list
+Sheep farm(2) Added Chicken farm(19) to his client list
+Sheep farm(3) Added Chicken farm(19) to his client list
+Chicken farm(19) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(19) to his client list
+Sheep farm(8) Added Chicken farm(19) to his client list
+Chicken farm(19) Added Cow farm(9) to his client list
+Chicken farm(19) Added Cow farm(10) to his client list
+Chicken farm(19) Added Cow farm(11) to his client list
+Chicken farm(19) Added Cow farm(12) to his client list
+Chicken farm(19) Added Cow farm(13) to his client list
+Chicken farm(19) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(19) to his client list
+Sheep farm(16) Added Chicken farm(19) to his client list
+Sheep farm(17) Added Chicken farm(19) to his client list
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Year:8
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+How many years to fast forward?
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(18)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 2 chickens for 6 dollars
+Chicken farm(19) bought 2 chickens for 6 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(1)
+Sheep farm(1) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(18)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(1)
+Chicken farm(18) bought 6 wool for 12 dollars from Sheep farm(1)
+Chicken farm(19) bought 6 wool for 12 dollars from Sheep farm(1)
+Sheep farm(1) bought 18 milk for 54 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(18)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 2 wool for 4 dollars from Sheep farm(1)
+Chicken farm(4) bought 3 wool for 6 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 6 wool for 12 dollars from Sheep farm(2)
+Chicken farm(19) bought 6 wool for 12 dollars from Sheep farm(2)
+Sheep farm(1) bought 5 milk for 15 dollars from Cow farm(6)
+Sheep farm(2) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 14 cows for 140 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 11 cows for 110 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(2)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(2)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 6 milk for 18 dollars from Cow farm(6)
+Sheep farm(3) bought 14 milk for 42 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 17 milk for 51 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 12 cows for 120 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+Year:23
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[161], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[156], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[110], Wool[55], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[119], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[119], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 14, Animals: 112 cows, Products: Milk[5674], Wool[0], Eggs[149]
+Farm Id: 7, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[59], Wool[163], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[56], Wool[130], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[570], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[53], Wool[30], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[53], Wool[30], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[53], Wool[30], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[82], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[82], Eggs[0]
+Year:23
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+Insert valid number of chicken farms
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+Insert valid number of sheep farms
+How many new cow farms will be added this year?
+Insert valid number of cow farms
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 16 milk for 48 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 13 cows for 130 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+Year:24
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[165], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[160], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[126], Wool[35], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[124], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[124], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 11, Animals: 112 cows, Products: Milk[6197], Wool[0], Eggs[155]
+Farm Id: 7, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[63], Wool[163], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[60], Wool[130], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[615], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[56], Wool[30], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[56], Wool[30], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[56], Wool[30], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[87], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[87], Eggs[0]
+Year:24
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+Year:24
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+How many years to fast forward?
+Year:24
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Cow farm(20) Added Sheep farm(1) to his client list
+Cow farm(20) Added Sheep farm(2) to his client list
+Cow farm(20) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(20) to his client list
+Chicken farm(5) Added Cow farm(20) to his client list
+Cow farm(20) Added Sheep farm(7) to his client list
+Cow farm(20) Added Sheep farm(8) to his client list
+Cow farm(20) Added Sheep farm(15) to his client list
+Cow farm(20) Added Sheep farm(16) to his client list
+Cow farm(20) Added Sheep farm(17) to his client list
+Chicken farm(18) Added Cow farm(20) to his client list
+Chicken farm(19) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(4) to his client list
+Sheep farm(21) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(21) to his client list
+Cow farm(9) Added Sheep farm(21) to his client list
+Cow farm(10) Added Sheep farm(21) to his client list
+Cow farm(11) Added Sheep farm(21) to his client list
+Cow farm(12) Added Sheep farm(21) to his client list
+Cow farm(13) Added Sheep farm(21) to his client list
+Cow farm(14) Added Sheep farm(21) to his client list
+Sheep farm(21) Added Chicken farm(18) to his client list
+Sheep farm(21) Added Chicken farm(19) to his client list
+Cow farm(20) Added Sheep farm(21) to his client list
+Sheep farm(1) Added Chicken farm(22) to his client list
+Sheep farm(2) Added Chicken farm(22) to his client list
+Sheep farm(3) Added Chicken farm(22) to his client list
+Chicken farm(22) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(22) to his client list
+Sheep farm(8) Added Chicken farm(22) to his client list
+Chicken farm(22) Added Cow farm(9) to his client list
+Chicken farm(22) Added Cow farm(10) to his client list
+Chicken farm(22) Added Cow farm(11) to his client list
+Chicken farm(22) Added Cow farm(12) to his client list
+Chicken farm(22) Added Cow farm(13) to his client list
+Chicken farm(22) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(22) to his client list
+Sheep farm(16) Added Chicken farm(22) to his client list
+Sheep farm(17) Added Chicken farm(22) to his client list
+Chicken farm(22) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(22) to his client list
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 20 milk for 60 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+----Buy Animals----
+Cow farm(6) bought 14 cows for 140 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Chicken farm(18) bought 1 chickens for 3 dollars
+Chicken farm(19) bought 1 chickens for 3 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Year:25
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+How many years to fast forward?
+----Begin Market----
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(3)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(3)
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 10 milk for 30 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(7)
+Sheep farm(7) bought 10 milk for 30 dollars from Cow farm(9)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(18)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(19)
+Chicken farm(18) bought 1 wool for 2 dollars from Sheep farm(21)
+Chicken farm(19) bought 1 wool for 2 dollars from Sheep farm(21)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(22)
+----Buy Animals----
+Cow farm(6) bought 10 cows for 100 dollars
+Cow farm(9) bought 4 cows for 40 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Sheep farm(21) bought 1 sheeps for 5 dollars
+Chicken farm(22) bought 1 chickens for 3 dollars
+Year:26
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Sheep farm(23) Added Chicken farm(4) to his client list
+Sheep farm(23) Added Chicken farm(5) to his client list
+Cow farm(6) Added Sheep farm(23) to his client list
+Cow farm(9) Added Sheep farm(23) to his client list
+Cow farm(10) Added Sheep farm(23) to his client list
+Cow farm(11) Added Sheep farm(23) to his client list
+Cow farm(12) Added Sheep farm(23) to his client list
+Cow farm(13) Added Sheep farm(23) to his client list
+Cow farm(14) Added Sheep farm(23) to his client list
+Sheep farm(23) Added Chicken farm(18) to his client list
+Sheep farm(23) Added Chicken farm(19) to his client list
+Cow farm(20) Added Sheep farm(23) to his client list
+Sheep farm(23) Added Chicken farm(22) to his client list
+----Begin Market----
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(7)
+Sheep farm(7) bought 16 milk for 48 dollars from Cow farm(9)
+Cow farm(6) bought 2 eggs for 2 dollars from Chicken farm(18)
+Cow farm(6) bought 2 eggs for 2 dollars from Chicken farm(19)
+Chicken farm(18) bought 1 wool for 2 dollars from Sheep farm(21)
+Chicken farm(19) bought 1 wool for 2 dollars from Sheep farm(21)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(22)
+----Buy Animals----
+Cow farm(6) bought 11 cows for 110 dollars
+Cow farm(9) bought 5 cows for 50 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Sheep farm(21) bought 1 sheeps for 5 dollars
+Chicken farm(22) bought 2 chickens for 6 dollars
+Year:27
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[175], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[170], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[160], Wool[0], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[139], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[139], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 13, Animals: 110 cows, Products: Milk[7753], Wool[0], Eggs[181]
+Farm Id: 7, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[99], Wool[123], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[70], Wool[130], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 18, Animals: 16 cows, Products: Milk[727], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[750], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[750], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[750], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[750], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[750], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[66], Wool[30], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[66], Wool[30], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[66], Wool[30], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[104], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[104], Eggs[0]
+Farm Id: 20, type: Cow farm, Money: 10, Animals: 6 cows, Products: Milk[13], Wool[0], Eggs[0]
+Farm Id: 21, type: Sheep farm, Money: 11, Animals: 5 sheep, Products: Milk[9], Wool[6], Eggs[0]
+Farm Id: 22, type: Chicken Farm, Money: 11, Animals: 3 chickens, Products: Milk[0], Wool[15], Eggs[0]
+Farm Id: 23, type: Sheep farm, Money: 11, Animals: 3 sheep, Products: Milk[3], Wool[0], Eggs[0]
+Year:27
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+Insert valid number of cow farms
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+Insert valid number of sheep farms
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+Insert valid number of chicken farms
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+Cow farm(24) Added Sheep farm(1) to his client list
+Cow farm(24) Added Sheep farm(2) to his client list
+Cow farm(24) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(24) to his client list
+Chicken farm(5) Added Cow farm(24) to his client list
+Cow farm(24) Added Sheep farm(7) to his client list
+Cow farm(24) Added Sheep farm(8) to his client list
+Cow farm(24) Added Sheep farm(15) to his client list
+Cow farm(24) Added Sheep farm(16) to his client list
+Cow farm(24) Added Sheep farm(17) to his client list
+Chicken farm(18) Added Cow farm(24) to his client list
+Chicken farm(19) Added Cow farm(24) to his client list
+Cow farm(24) Added Sheep farm(21) to his client list
+Chicken farm(22) Added Cow farm(24) to his client list
+Cow farm(24) Added Sheep farm(23) to his client list
+Cow farm(25) Added Sheep farm(1) to his client list
+Cow farm(25) Added Sheep farm(2) to his client list
+Cow farm(25) Added Sheep farm(3) to his client list
+Chicken farm(4) Added Cow farm(25) to his client list
+Chicken farm(5) Added Cow farm(25) to his client list
+Cow farm(25) Added Sheep farm(7) to his client list
+Cow farm(25) Added Sheep farm(8) to his client list
+Cow farm(25) Added Sheep farm(15) to his client list
+Cow farm(25) Added Sheep farm(16) to his client list
+Cow farm(25) Added Sheep farm(17) to his client list
+Chicken farm(18) Added Cow farm(25) to his client list
+Chicken farm(19) Added Cow farm(25) to his client list
+Cow farm(25) Added Sheep farm(21) to his client list
+Chicken farm(22) Added Cow farm(25) to his client list
+Cow farm(25) Added Sheep farm(23) to his client list
+Sheep farm(1) Added Chicken farm(26) to his client list
+Sheep farm(2) Added Chicken farm(26) to his client list
+Sheep farm(3) Added Chicken farm(26) to his client list
+Chicken farm(26) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(26) to his client list
+Sheep farm(8) Added Chicken farm(26) to his client list
+Chicken farm(26) Added Cow farm(9) to his client list
+Chicken farm(26) Added Cow farm(10) to his client list
+Chicken farm(26) Added Cow farm(11) to his client list
+Chicken farm(26) Added Cow farm(12) to his client list
+Chicken farm(26) Added Cow farm(13) to his client list
+Chicken farm(26) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(26) to his client list
+Sheep farm(16) Added Chicken farm(26) to his client list
+Sheep farm(17) Added Chicken farm(26) to his client list
+Chicken farm(26) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(26) to his client list
+Sheep farm(23) Added Chicken farm(26) to his client list
+Chicken farm(26) Added Cow farm(24) to his client list
+Chicken farm(26) Added Cow farm(25) to his client list
+Sheep farm(1) Added Chicken farm(27) to his client list
+Sheep farm(2) Added Chicken farm(27) to his client list
+Sheep farm(3) Added Chicken farm(27) to his client list
+Chicken farm(27) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(27) to his client list
+Sheep farm(8) Added Chicken farm(27) to his client list
+Chicken farm(27) Added Cow farm(9) to his client list
+Chicken farm(27) Added Cow farm(10) to his client list
+Chicken farm(27) Added Cow farm(11) to his client list
+Chicken farm(27) Added Cow farm(12) to his client list
+Chicken farm(27) Added Cow farm(13) to his client list
+Chicken farm(27) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(27) to his client list
+Sheep farm(16) Added Chicken farm(27) to his client list
+Sheep farm(17) Added Chicken farm(27) to his client list
+Chicken farm(27) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(27) to his client list
+Sheep farm(23) Added Chicken farm(27) to his client list
+Chicken farm(27) Added Cow farm(24) to his client list
+Chicken farm(27) Added Cow farm(25) to his client list
+Sheep farm(1) Added Chicken farm(28) to his client list
+Sheep farm(2) Added Chicken farm(28) to his client list
+Sheep farm(3) Added Chicken farm(28) to his client list
+Chicken farm(28) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(28) to his client list
+Sheep farm(8) Added Chicken farm(28) to his client list
+Chicken farm(28) Added Cow farm(9) to his client list
+Chicken farm(28) Added Cow farm(10) to his client list
+Chicken farm(28) Added Cow farm(11) to his client list
+Chicken farm(28) Added Cow farm(12) to his client list
+Chicken farm(28) Added Cow farm(13) to his client list
+Chicken farm(28) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(28) to his client list
+Sheep farm(16) Added Chicken farm(28) to his client list
+Sheep farm(17) Added Chicken farm(28) to his client list
+Chicken farm(28) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(28) to his client list
+Sheep farm(23) Added Chicken farm(28) to his client list
+Chicken farm(28) Added Cow farm(24) to his client list
+Chicken farm(28) Added Cow farm(25) to his client list
+Sheep farm(1) Added Chicken farm(29) to his client list
+Sheep farm(2) Added Chicken farm(29) to his client list
+Sheep farm(3) Added Chicken farm(29) to his client list
+Chicken farm(29) Added Cow farm(6) to his client list
+Sheep farm(7) Added Chicken farm(29) to his client list
+Sheep farm(8) Added Chicken farm(29) to his client list
+Chicken farm(29) Added Cow farm(9) to his client list
+Chicken farm(29) Added Cow farm(10) to his client list
+Chicken farm(29) Added Cow farm(11) to his client list
+Chicken farm(29) Added Cow farm(12) to his client list
+Chicken farm(29) Added Cow farm(13) to his client list
+Chicken farm(29) Added Cow farm(14) to his client list
+Sheep farm(15) Added Chicken farm(29) to his client list
+Sheep farm(16) Added Chicken farm(29) to his client list
+Sheep farm(17) Added Chicken farm(29) to his client list
+Chicken farm(29) Added Cow farm(20) to his client list
+Sheep farm(21) Added Chicken farm(29) to his client list
+Sheep farm(23) Added Chicken farm(29) to his client list
+Chicken farm(29) Added Cow farm(24) to his client list
+Chicken farm(29) Added Cow farm(25) to his client list
+----Begin Market----
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(26) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(27) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(28) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(29) bought 5 wool for 10 dollars from Sheep farm(7)
+Sheep farm(7) bought 30 milk for 90 dollars from Cow farm(9)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(22)
+Chicken farm(22) bought 2 wool for 4 dollars from Sheep farm(23)
+----Buy Animals----
+Cow farm(6) bought 11 cows for 110 dollars
+Cow farm(9) bought 10 cows for 100 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Sheep farm(23) bought 1 sheeps for 5 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Year:28
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+How many years to fast forward?
+----Begin Market----
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(26) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(27) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(28) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(29) bought 5 wool for 10 dollars from Sheep farm(7)
+Sheep farm(7) bought 30 milk for 90 dollars from Cow farm(9)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(22)
+Chicken farm(22) bought 2 wool for 4 dollars from Sheep farm(23)
+Sheep farm(23) bought 2 milk for 6 dollars from Cow farm(24)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(26)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(27)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(28)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 8 cows for 80 dollars
+Cow farm(9) bought 10 cows for 100 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 1 chickens for 3 dollars
+Chicken farm(27) bought 1 chickens for 3 dollars
+Chicken farm(28) bought 1 chickens for 3 dollars
+Chicken farm(29) bought 1 chickens for 3 dollars
+----Begin Market----
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(26) bought 5 wool for 10 dollars from Sheep farm(7)
+Chicken farm(27) bought 3 wool for 6 dollars from Sheep farm(7)
+Chicken farm(27) bought 2 wool for 4 dollars from Sheep farm(8)
+Chicken farm(28) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(29) bought 5 wool for 10 dollars from Sheep farm(8)
+Sheep farm(7) bought 22 milk for 66 dollars from Cow farm(9)
+Sheep farm(8) bought 8 milk for 24 dollars from Cow farm(9)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(26)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(27)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(28)
+Cow farm(6) bought 7 eggs for 7 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 9 cows for 90 dollars
+Cow farm(9) bought 10 cows for 100 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 2 chickens for 6 dollars
+Chicken farm(27) bought 2 chickens for 6 dollars
+Chicken farm(28) bought 2 chickens for 6 dollars
+Chicken farm(29) bought 2 chickens for 6 dollars
+----Begin Market----
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(26) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(27) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(28) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(29) bought 5 wool for 10 dollars from Sheep farm(8)
+Sheep farm(8) bought 30 milk for 90 dollars from Cow farm(9)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(26)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(27)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(28)
+Cow farm(6) bought 4 eggs for 4 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 9 cows for 90 dollars
+Cow farm(9) bought 10 cows for 100 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 1 chickens for 3 dollars
+Chicken farm(27) bought 1 chickens for 3 dollars
+Chicken farm(28) bought 1 chickens for 3 dollars
+Chicken farm(29) bought 1 chickens for 3 dollars
+----Begin Market----
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(23) bought 4 milk for 12 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(26) bought 6 wool for 12 dollars from Sheep farm(8)
+Chicken farm(27) bought 6 wool for 12 dollars from Sheep farm(8)
+Chicken farm(28) bought 6 wool for 12 dollars from Sheep farm(8)
+Chicken farm(29) bought 6 wool for 12 dollars from Sheep farm(8)
+Sheep farm(8) bought 33 milk for 99 dollars from Cow farm(9)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(26)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(27)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(28)
+Cow farm(6) bought 5 eggs for 5 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 9 cows for 90 dollars
+Cow farm(9) bought 11 cows for 110 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 1 cows for 10 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 1 chickens for 3 dollars
+Chicken farm(27) bought 1 chickens for 3 dollars
+Chicken farm(28) bought 1 chickens for 3 dollars
+Chicken farm(29) bought 1 chickens for 3 dollars
+Year:32
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[191], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[186], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[176], Wool[0], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[164], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[164], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 14, Animals: 94 cows, Products: Milk[10306], Wool[0], Eggs[265]
+Farm Id: 7, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[198], Wool[0], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[157], Wool[24], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 17, Animals: 62 cows, Products: Milk[1099], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[975], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[975], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[975], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[975], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[975], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[83], Wool[30], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[83], Wool[30], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[83], Wool[30], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[129], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[129], Eggs[0]
+Farm Id: 20, type: Cow farm, Money: 10, Animals: 11 cows, Products: Milk[168], Wool[0], Eggs[0]
+Farm Id: 21, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[26], Wool[46], Eggs[0]
+Farm Id: 22, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[44], Eggs[0]
+Farm Id: 23, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[21], Wool[36], Eggs[0]
+Farm Id: 24, type: Cow farm, Money: 16, Animals: 8 cows, Products: Milk[48], Wool[0], Eggs[0]
+Farm Id: 25, type: Cow farm, Money: 10, Animals: 8 cows, Products: Milk[50], Wool[0], Eggs[0]
+Farm Id: 26, type: Chicken Farm, Money: 12, Animals: 2 chickens, Products: Milk[0], Wool[26], Eggs[0]
+Farm Id: 27, type: Chicken Farm, Money: 12, Animals: 2 chickens, Products: Milk[0], Wool[26], Eggs[0]
+Farm Id: 28, type: Chicken Farm, Money: 12, Animals: 2 chickens, Products: Milk[0], Wool[26], Eggs[0]
+Farm Id: 29, type: Chicken Farm, Money: 12, Animals: 2 chickens, Products: Milk[0], Wool[26], Eggs[0]
+Year:32
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+----Begin Market----
+Sheep farm(1) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(2) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(3) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(7) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(8) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(17) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(8)
+Chicken farm(22) bought 4 wool for 8 dollars from Sheep farm(8)
+Sheep farm(8) bought 16 milk for 48 dollars from Cow farm(9)
+Chicken farm(22) bought 1 wool for 2 dollars from Sheep farm(15)
+Chicken farm(26) bought 6 wool for 12 dollars from Sheep farm(15)
+Chicken farm(27) bought 6 wool for 12 dollars from Sheep farm(15)
+Chicken farm(28) bought 6 wool for 12 dollars from Sheep farm(15)
+Chicken farm(29) bought 6 wool for 12 dollars from Sheep farm(15)
+Sheep farm(15) bought 17 milk for 51 dollars from Cow farm(20)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(26)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(27)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(28)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 10 cows for 100 dollars
+Cow farm(9) bought 6 cows for 60 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 6 cows for 60 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 1 chickens for 3 dollars
+Chicken farm(27) bought 1 chickens for 3 dollars
+Chicken farm(28) bought 1 chickens for 3 dollars
+Chicken farm(29) bought 1 chickens for 3 dollars
+Year:33
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[195], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[190], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[180], Wool[0], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[169], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[169], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 11, Animals: 91 cows, Products: Milk[10779], Wool[0], Eggs[277]
+Farm Id: 7, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[201], Wool[0], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[176], Wool[0], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 15, Animals: 67 cows, Products: Milk[1309], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1020], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1020], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1020], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1020], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1020], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[103], Wool[5], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[86], Wool[30], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[86], Wool[30], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[134], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[134], Eggs[0]
+Farm Id: 20, type: Cow farm, Money: 11, Animals: 17 cows, Products: Milk[211], Wool[0], Eggs[0]
+Farm Id: 21, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[29], Wool[46], Eggs[0]
+Farm Id: 22, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[49], Eggs[0]
+Farm Id: 23, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[24], Wool[36], Eggs[0]
+Farm Id: 24, type: Cow farm, Money: 16, Animals: 9 cows, Products: Milk[78], Wool[0], Eggs[0]
+Farm Id: 25, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[80], Wool[0], Eggs[0]
+Farm Id: 26, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[32], Eggs[0]
+Farm Id: 27, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[32], Eggs[0]
+Farm Id: 28, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[32], Eggs[0]
+Farm Id: 29, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[32], Eggs[0]
+Year:33
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Creating new farms----
+How many new cow farms will be added this year?
+How many new sheep farms will be added this year?
+How many new chicken farms will be added this year?
+----Adding new farms to market----
+----Begin Market----
+Sheep farm(1) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(2) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(3) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(7) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(8) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(15) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(16) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(17) bought 4 milk for 12 dollars from Cow farm(6)
+Sheep farm(21) bought 3 milk for 9 dollars from Cow farm(6)
+Sheep farm(23) bought 3 milk for 9 dollars from Cow farm(6)
+Chicken farm(4) bought 5 wool for 10 dollars from Sheep farm(15)
+Chicken farm(5) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(18) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(19) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(22) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(26) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(27) bought 5 wool for 10 dollars from Sheep farm(16)
+Chicken farm(28) bought 5 wool for 10 dollars from Sheep farm(17)
+Chicken farm(29) bought 5 wool for 10 dollars from Sheep farm(17)
+Sheep farm(15) bought 4 milk for 12 dollars from Cow farm(20)
+Sheep farm(16) bought 20 milk for 60 dollars from Cow farm(20)
+Sheep farm(17) bought 6 milk for 18 dollars from Cow farm(20)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(26)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(27)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(28)
+Cow farm(6) bought 3 eggs for 3 dollars from Chicken farm(29)
+----Buy Animals----
+Cow farm(6) bought 10 cows for 100 dollars
+Cow farm(9) bought 1 cows for 10 dollars
+Cow farm(10) bought 1 cows for 10 dollars
+Cow farm(11) bought 1 cows for 10 dollars
+Cow farm(12) bought 1 cows for 10 dollars
+Cow farm(13) bought 1 cows for 10 dollars
+Cow farm(14) bought 1 cows for 10 dollars
+Cow farm(20) bought 10 cows for 100 dollars
+Cow farm(24) bought 1 cows for 10 dollars
+Cow farm(25) bought 1 cows for 10 dollars
+Chicken farm(26) bought 1 chickens for 3 dollars
+Chicken farm(27) bought 1 chickens for 3 dollars
+Chicken farm(28) bought 1 chickens for 3 dollars
+Chicken farm(29) bought 1 chickens for 3 dollars
+Year:34
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+----Market Farms----
+Farm Id: 1, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[198], Wool[0], Eggs[0]
+Farm Id: 2, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[193], Wool[0], Eggs[0]
+Farm Id: 3, type: Sheep farm, Money: 11, Animals: 0 sheep, Products: Milk[183], Wool[0], Eggs[0]
+Farm Id: 4, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[174], Eggs[0]
+Farm Id: 5, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[174], Eggs[0]
+Farm Id: 6, type: Cow farm, Money: 11, Animals: 87 cows, Products: Milk[11225], Wool[0], Eggs[289]
+Farm Id: 7, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[205], Wool[0], Eggs[0]
+Farm Id: 8, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[180], Wool[0], Eggs[0]
+Farm Id: 9, type: Cow farm, Money: 15, Animals: 67 cows, Products: Milk[1593], Wool[0], Eggs[0]
+Farm Id: 10, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1065], Wool[0], Eggs[0]
+Farm Id: 11, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1065], Wool[0], Eggs[0]
+Farm Id: 12, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1065], Wool[0], Eggs[0]
+Farm Id: 13, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1065], Wool[0], Eggs[0]
+Farm Id: 14, type: Cow farm, Money: 10, Animals: 9 cows, Products: Milk[1065], Wool[0], Eggs[0]
+Farm Id: 15, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[110], Wool[0], Eggs[0]
+Farm Id: 16, type: Sheep farm, Money: 10, Animals: 0 sheep, Products: Milk[110], Wool[0], Eggs[0]
+Farm Id: 17, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[96], Wool[20], Eggs[0]
+Farm Id: 18, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[139], Eggs[0]
+Farm Id: 19, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[139], Eggs[0]
+Farm Id: 20, type: Cow farm, Money: 11, Animals: 23 cows, Products: Milk[258], Wool[0], Eggs[0]
+Farm Id: 21, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[32], Wool[46], Eggs[0]
+Farm Id: 22, type: Chicken Farm, Money: 11, Animals: 0 chickens, Products: Milk[0], Wool[54], Eggs[0]
+Farm Id: 23, type: Sheep farm, Money: 12, Animals: 0 sheep, Products: Milk[27], Wool[36], Eggs[0]
+Farm Id: 24, type: Cow farm, Money: 16, Animals: 10 cows, Products: Milk[117], Wool[0], Eggs[0]
+Farm Id: 25, type: Cow farm, Money: 10, Animals: 10 cows, Products: Milk[119], Wool[0], Eggs[0]
+Farm Id: 26, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[37], Eggs[0]
+Farm Id: 27, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[37], Eggs[0]
+Farm Id: 28, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[37], Eggs[0]
+Farm Id: 29, type: Chicken Farm, Money: 10, Animals: 2 chickens, Products: Milk[0], Wool[37], Eggs[0]
+Year:34
+1. Next year
+2. Fast forward
+3. Print farms in market
+4. Exit
+Bye.. 
